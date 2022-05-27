@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/User.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/FactoryOfBombs.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/MoveDownCommand.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/GameGUI.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Users.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/SpecialFruit1.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/SpecialFruit2.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Observer.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Player.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/BladeMouseMotionListener.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/GameOver.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Watermelon.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/MouseTrail.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/FatalBomb.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/DangerousBomb.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Mouse.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/FactoryOfFruits.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/AbstractFactory.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Orange.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Command.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/GameObject.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/HomeFrame.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/MoveUpCommand.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/CreateAccountFrame.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/GamePanel.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/TimerActionListener.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/HighScores.java</file>
+            <file>file:/F:/Adel%20Java/Fruit%20Ninja/src/fruitninja/Apple.java</file>
+        </group>
+    </open-files>
+</project-private>
